@@ -45,3 +45,8 @@ table {
 img.header {
     position: fixed;
 }
+
+img.reste {
+	width: 100%;
+	object-fit: contain;
+}
