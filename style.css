@@ -43,6 +43,7 @@ table {
 }
 
 img.header {
+	width: 100%;
     position: fixed;
 }
 
